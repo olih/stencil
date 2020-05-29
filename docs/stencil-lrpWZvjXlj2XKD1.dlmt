@@ -1,0 +1,124 @@
+section header
+id-urn: olivierhuin/vegetation20/stencil-lrpWZvjXlj2XKD1
+require-sections: [ header 0.5,views 0.5,tag-descriptions 0.5,brushes 0.5,brushstrokes 0.5 ]
+prefixes: [ brushes https://olih.github.io/brush/,stencils https://olih.github.io/stencil/ ]
+page-coordinate-system: system cartesian right-dir + up-dir -
+brush-coordinate-system: system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2
+brush-page-ratio: 1/100
+name en: stencil-lrpWZvjXlj2XKD1
+title en: Evolved stencil-lrpWZvjXlj2XKD1
+license en: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+attribution-name en: Olivier Huin
+brushes-attribution-name en: Olivier Huin
+author en: Olivier Huin
+description en: Stencil manually selected from carefully crafted generations using a Lindenmayer system approach based on angles [ 1/8 2/11 1/4 ], magnitudes [ 9/11 10/11 1 ] and the rules I->PA<I[[PPP[[]PPPL<B<L<A]PAPIA>P]]PL<A starting with P[P[A<A]P]IA<L>B<P[AB<PPPB>]PA< resulting in 85 brushstokes with a visibility of 100.00%, correlation of 0.8935815751657729 and a median range of 0.082 0.105
+content-url dlmt en: https://olih.github.io/stencil/stencil-lrpWZvjXlj2XKD1.dlmt
+license-url html en: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+brushes-license-url html en: https://creativecommons.org/licenses/by/4.0/legalcode
+author-url html en: https://olih.github.io/stencil/profile.html
+attribution-url html en: https://olih.github.io/stencil/profile.html
+brushes-attribution-url html en: https://olih.github.io/brush/profile.html
+homepage-url html en: https://github.com/olih/stencil
+repository-url html en: https://github.com/olih/stencil
+copyright-year: 2020
+is-family-friendly: yes
+has-parts: [  ]
+--------
+section views
+view i:1 lang en xy 0 0 width 1 height 1 flags o tags all but [  ] -> everything
+--------
+section tag-descriptions
+tag i:1 lang en same-as [  ] -> default
+--------
+section brushes
+brush i:3 ext-id brushes:brush-kR82ONn1qwPnA5m path [ M 71/348 5/63,S 138251/696000 -333653/5359200 2719/12000 -5467/104400,S 33707/216000 -22163/232000 701/3000 -3073/36000,S 943783/3596000 99443/4305600 45619/186000 2513/46000,S 21289451/140616000 -374833/4554000 45611/252000 -13411/198000,S 9869341/49896000 -1447/153450 10019/81000 -5581/62000,S -14099/1782000 -2064471/14756000 3/250 -399/8500,S -5191/72800 -785777/18972000 -1109/42000 -259/18000,S -79631/567000 -109/2880 -5503/42000 -1457/36000,S -67903/2604000 29411/696000 -43/600 -233/18000,S -598141/4788000 703/18000 -27551/114000 199/18000,S -13079549/53352000 654259/6552000 -3709/21600 3207/52000,S -73537/21297600 6258943/150696000 71/348 5/63 ]
+brush i:4 ext-id brushes:brush-gQEJz7JLzN5nGqX path [ M 23/76 -2/93,S 487381/2204000 -512717/14508000 19657/174000 961/18000,S -72637/957000 -1591427/51336000 -377/1320 -10577/372000,S -1039903/4488000 -353137/3906000 -27773/204000 -3489/28000,S -3421/82824 -4981/42000 5361/28000 -367/4000,S 9206347/35112000 -15639/1736000 23/76 -2/93 ]
+brush i:5 ext-id brushes:brush-D1OGepN5PwLnoV6 path [ M 29/100 1/150,S 87119/408000 26971/456000 1927/12000 329/12000,S 6889/84000 56971/924000 1163/28000 419/84000,S -13/350 1062979/28644000 -1563/28000 12227/372000,S -27719/364000 405247/7068000 -8917/52000 243/4000,S -5780389/22568000 19323/1288000 -167/620 3/140,S -1297017/5704000 335383/6552000 -21807/92000 4891/252000,S -477739/2484000 456469/14364000 -12343/108000 -2053/108000,S 271/77220 347677/42228000 4417/52000 -9691/276000,S 1883/13000 -61427/828000 769/4000 -947/36000,S 412549/1768000 15083/792000 53/260 -1/120,S 193/650 -983/27600 29/100 1/150 ]
+brush i:7 ext-id brushes:brush-52LVjw65G70Jxr1 path [ M 2/11 1/42,S 3274529/43384000 1713073/9576000 2591/68000 68839/684000,S -2838959/37128000 72659/1185600 1669/42000 -2669/234000,S -1423547/15708000 -1954561/27144000 -149/440 1433/36000,S -4093/11440 -217/1728 -3/10 -119/1125,S 193/4180 -1597/10500 2/11 1/42 ]
+--------
+section brushstrokes
+brushstroke i:3 xy 1119089/3300000 2219089/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:3 xy 569089/1650000 1119089/1650000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:3 xy 569089/1650000 1132589/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 1119089/3300000 2246089/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 51377/150000 283829/412500 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:3 xy 1149383/3300000 2289721/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:3 xy 1149383/3300000 210611/300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 1149383/3300000 2343721/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 1149383/3300000 2370721/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 1149383/3300000 2397721/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 1149383/3300000 2424721/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 1149383/3300000 2451721/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:7 xy 1149383/3300000 2397721/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:7 xy 1149383/3300000 2424721/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:7 xy 146059/412500 244381/330000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 146059/412500 230881/330000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 1191803/3300000 2332141/3300000 scale 3/2 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 607567/1650000 147217/206250 scale 3/2 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 247693/660000 2378803/3300000 scale 3/2 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 628777/1650000 599473/825000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 1276643/3300000 2416981/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 323933/825000 243607/330000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 628777/1650000 599473/825000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 1276643/3300000 2416981/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 323933/825000 243607/330000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 323933/825000 246307/330000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 323933/825000 22637/30000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 323933/825000 251707/330000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 323933/825000 254407/330000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 323933/825000 257107/330000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 323933/825000 259807/330000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:4 xy 323933/825000 254407/330000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:4 xy 323933/825000 257107/330000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:4 xy 1314821/3300000 235469/300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:4 xy 1314821/3300000 2455159/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:4 xy 332129/825000 621289/825000 scale 3/2 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 1179677/3300000 212123/300000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 298343/825000 4297/6000 scale 3/2 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 1207067/3300000 217577/300000 scale 3/2 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 610381/1650000 13769/18750 scale 3/2 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 111997/300000 2447887/3300000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 310793/825000 247243/330000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 1254377/3300000 2496973/3300000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:3 xy 111997/300000 2447887/3300000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:3 xy 310793/825000 247243/330000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:3 xy 1254377/3300000 2496973/3300000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:3 xy 636733/1650000 1258031/1650000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:3 xy 636733/1650000 1271531/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 636733/1650000 116821/150000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 636733/1650000 1298531/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 636733/1650000 1312031/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 636733/1650000 1325531/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 636733/1650000 1339031/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:7 xy 636733/1650000 1312031/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:7 xy 636733/1650000 1325531/1650000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:7 xy 23501/60000 242741/300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 23501/60000 2535151/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 59813/150000 1279241/1650000 scale 3/2 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 121747/300000 2581813/3300000 scale 3/2 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 30967/75000 325643/412500 scale 3/2 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 1381637/3300000 2624233/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 700363/1650000 120151/150000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:7 xy 283963/660000 2662411/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 1381637/3300000 2624233/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 700363/1650000 120151/150000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 283963/660000 2662411/3300000 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:5 xy 283963/660000 2689411/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 283963/660000 2716411/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 283963/660000 249401/300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 283963/660000 2770411/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 283963/660000 2797411/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:5 xy 283963/660000 2824411/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:4 xy 283963/660000 2770411/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:4 xy 283963/660000 2797411/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:4 xy 179863/412500 5633/6600 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:4 xy 179863/412500 5363/6600 scale 27/22 angle 1/8 tags [ i:1 ]
+brushstroke i:4 xy 1452599/3300000 2711497/3300000 scale 3/2 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 16297/41250 1279847/1650000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:4 xy 16297/41250 1296347/1650000 scale 3/2 angle 1/4 tags [ i:1 ]
+brushstroke i:4 xy 1179677/3300000 2360353/3300000 scale 27/22 angle 1/4 tags [ i:1 ]
+brushstroke i:3 xy 54131/150000 74528/103125 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:7 xy 1202087/3300000 2409439/3300000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:7 xy 303323/825000 1216991/1650000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:7 xy 1224497/3300000 98341/132000 scale 27/22 angle 2/11 tags [ i:1 ]
+brushstroke i:3 xy 1202087/3300000 2409439/3300000 scale 27/22 angle 2/11 tags [ i:1 ]
